@@ -210,3 +210,4 @@ class Weather {
       winddirection: json['current_weather'].winddirection,
     );
   }
+}
