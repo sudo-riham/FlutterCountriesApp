@@ -1,6 +1,6 @@
 # fluttercountryweatherapplication
 
-Building this application as an exam for Flutter Developer INternship with ZAQ. 
+
 
 To install this project on your device and test it, you can either download it as zip folder from the code button and open the folder in your prefered IDE. Android Studio is recommended. Your machine should have installed Flutter SDK. 
 Or you can download it using CLI with the git command: git install https://github.com/sudo-riham/fluttercountryapplication/
